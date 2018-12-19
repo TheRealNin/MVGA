@@ -1,0 +1,1 @@
+kAdrenalineAbilityMaxEnergy = 130 -- was 160

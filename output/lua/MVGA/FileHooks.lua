@@ -32,7 +32,10 @@ end
 local pieces = { 
 "Biomass",
 "BuildTimes",
-"Supply"
+"Supply",
+"Adren",
+"InfantryPortal",
+"Aura"
 }
 
 for i = 1, #pieces do
