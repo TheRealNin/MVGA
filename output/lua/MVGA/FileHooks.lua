@@ -31,7 +31,8 @@ end
 
 local pieces = { 
 "Biomass",
-"BuildTimes"
+"BuildTimes",
+"Supply"
 }
 
 for i = 1, #pieces do
