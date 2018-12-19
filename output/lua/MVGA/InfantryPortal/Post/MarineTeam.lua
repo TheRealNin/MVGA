@@ -19,7 +19,10 @@ function MarineTeam:SpawnInitialStructures(techPoint)
     elseif self:GetNumPlayers() >= 8 then
 	
         SpawnInfantryPortal(self, techPoint)
-		self:AddTeamResources(-5)
+		
+		if self:GetNumPlayers() == 8 then
+			self:AddTeamResources(-5)
+		end
 		
     end
 
