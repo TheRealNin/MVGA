@@ -30,7 +30,8 @@ local function SetupFilehookFolders(modPath)
 end
 
 local pieces = { 
-"Biomass"
+"Biomass",
+"BuildTimes"
 }
 
 for i = 1, #pieces do
