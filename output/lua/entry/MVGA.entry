@@ -1,0 +1,4 @@
+modEntry = {
+FileHooks = "lua/MVGA/FileHooks.lua",
+Priority = 28
+}
