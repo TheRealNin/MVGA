@@ -37,7 +37,8 @@ local pieces = {
 "InfantryPortal",
 "Aura",
 "GL",
-"Mines"
+"Mines",
+"SkulkHP"
 }
 
 for i = 1, #pieces do
