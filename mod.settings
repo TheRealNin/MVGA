@@ -1,7 +1,10 @@
 name        = "MVGA"
-source_dir  = "source/"
-output_dir  = "output/"
-description = [=[MVGA]=]
+source_dir  = "source"
+output_dir  = "output"
+description = [=[MVGA balance mod, by Bleu!
+ModID: 5f0f1897
+See here for details: https://github.com/TheRealNin/MVGA]=]
 image       = "preview.jpg"
-tag_modtype = ""
-tag_support = ""
+tag_modtype = "Gameplay Tweak"
+tag_support = "Must be run on Server"
+publish_id = "5f0f1897"
