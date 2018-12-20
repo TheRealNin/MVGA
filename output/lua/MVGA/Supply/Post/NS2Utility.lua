@@ -1,4 +1,6 @@
 
+local kBaseSupply = 50
+local kExtraSupplyPerTechpoint = 50
 
 function GetMaxSupplyForTeam(teamNumber)
 
@@ -13,14 +15,14 @@ function GetMaxSupplyForTeam(teamNumber)
     
         local team = GetGamerules():GetTeam(teamNumber)
         if team and team.GetNumCapturedTechPoints then
-            maxSupply = team:GetNumCapturedTechPoints() * kSupplyPerTechpoint
+            maxSupply = kBaseSupply + team:GetNumCapturedTechPoints() * kExtraSupplyPerTechpoint
         end
         
     else    
         
         local teamInfoEnt = GetTeamInfoEntity(teamNumber)
         if teamInfoEnt and teamInfoEnt.GetNumCapturedTechPoints then
-            maxSupply = teamInfoEnt:GetNumCapturedTechPoints() * kSupplyPerTechpoint
+            maxSupply = kBaseSupply + teamInfoEnt:GetNumCapturedTechPoints() * kExtraSupplyPerTechpoint
         end
 
     end   

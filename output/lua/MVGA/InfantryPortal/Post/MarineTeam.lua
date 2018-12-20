@@ -13,7 +13,7 @@ function MarineTeam:SpawnInitialStructures(techPoint)
 	
 	-- increase tres to compensate for no IP
 	if self:GetNumPlayers() == 7 then
-		self:AddTeamResources(10)
+		self:AddTeamResources(5)
 	
 		-- Spawn a second IP when marines have 8 or more players, but reduce tres
     elseif self:GetNumPlayers() >= 8 then
@@ -21,7 +21,7 @@ function MarineTeam:SpawnInitialStructures(techPoint)
         SpawnInfantryPortal(self, techPoint)
 		
 		if self:GetNumPlayers() == 8 then
-			self:AddTeamResources(-5)
+			self:AddTeamResources(-10)
 		end
 		
     end
