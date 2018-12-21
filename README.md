@@ -38,6 +38,8 @@ This mod is split into compenents:
 * * Robotics Factory is now 10 supply
 
 **Aliens**
+* Adrenaline: Reverted adrenaline changes in vanilla. Now the upgrade increases energy regeneration
+
 * Biomass: Remove Biomass 4 research from hives, and reduce Contaminate biomass requirement to 9
 
 * PVE HP changs
@@ -80,8 +82,6 @@ This mod is split into compenents:
 * Medpack tech to be implemented later, if possible
 
 **Aliens**
-* Adren: Revert adrenaline changes in vanilla. Now the upgrade increases energy regeneration
-
 * Biomass 1 research cost increased to 20 (from 15). Biomass 2 increased to 25 (from 20)
 * Clogs
 
