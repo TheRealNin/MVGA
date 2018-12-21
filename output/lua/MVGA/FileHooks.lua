@@ -38,7 +38,8 @@ local pieces = {
 "Aura",
 "GL",
 "Mines",
-"SkulkHP"
+"SkulkHP",
+"StructureHP"
 }
 
 for i = 1, #pieces do
