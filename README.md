@@ -70,6 +70,8 @@ This mod is split into compenents:
 * * Protolab cost changed to 40 (from 35)
 * * MG now requires research at the AA. Costs 10 Tres and takes 30 seconds.
 
+* Medpack tech to be implemented later, if possible
+
 **Aliens**
 * Adren: Revert adrenaline changes in vanilla. Now the upgrade increases energy regeneration
 
@@ -95,3 +97,4 @@ This mod is split into compenents:
 * * Thus, unmature hive now has 5000 effective hp (from 5500) and mature hive has 8000 effective HP (from 8800), a decrease close to 10%.
 
 * Nutrient mist no longer prevents buildings off infestation from taking damage, and can only be deployed on infestation.
+* Neurotoxin to be implemented later, if possible.
