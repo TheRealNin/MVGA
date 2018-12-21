@@ -71,7 +71,7 @@ This mod is split into compenents:
 **Marines**
 * Flamethrower
 * * Decreased base damage to 8 (from 12)
-* * Base damage now scales with weapon upgrades (W3 base damage is now 10.4. This means the FT is just slightly less effective vs buildings while being much less effective in PvP due to flame puddles and their ability to damage fast moving / flying aliens)
+* * Base damage now scales with weapon upgrades (W3 base damage is now 10.4. This means the FT is just slightly less effective vs buildings while being much less effective in PvP since flame puddles are much less effective at damaging fast moving / flying aliens)
 
 * MG/AA/Proto adjustments
 * * AA research cost changed to 20 (from 25)
