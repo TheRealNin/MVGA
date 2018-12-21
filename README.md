@@ -7,14 +7,14 @@ This mod is split into compenents:
 ## **Implemented**
 
 ### **Marines**
-* BuildTimes: Fix build times for obs and robo. Obs now takes 7 seconds to build and robo takes 15 seconds, in accordance with their size and HP.
+* BuildTimes: fix build times for obs and robo. Obs now takes 7 seconds to build and robo takes 15 seconds, in accordance with their size and HP.
 
 * Infantry Portal: a balance mechanic is implemented to account for the different sizes, from 6v6 to 8v8. Changes are only implemented at the start of the round, with no effect if marines join after the game has started. Changes are as follows:
   * 6 marines = no change
   * 7 marines = +5 Tres
   * 8 marines = + 1 Infantry Portal, -10 Tres (for a net gain of +10 Tres)
 
-* Mines:
+* Mines
   * effective HP changed to 70 (from 30)
   * Now Affected by weapon upgrades
   * Pres cost changed to 12 (from 10)
@@ -31,16 +31,16 @@ This mod is split into compenents:
   * GL cost changed to 18 (from 20)
   * FT cost changed to 18 (from 20)
 
-* Supply:
+* Supply
   * Observatories now cost 25 supply
   * Sentry batteries now cost 20 supply
   * Armory is now 10 supply
   * Robotics Factory is now 10 supply
 
 ### **Aliens**
-* Adrenaline: Reverted adrenaline changes in vanilla. Now the upgrade increases energy regeneration
+* Adrenaline: reverted adrenaline changes in vanilla. Now the upgrade increases energy regeneration
 
-* Biomass: Remove Biomass 4 research from hives, and reduce Contaminate biomass requirement to 9
+* Biomass: remove Biomass 4 research from hives, and reduce Contaminate biomass requirement to 9
 
 * PVE HP changes
   * Reduce crag, shift, shade, whip and clog effective HP by 10%, both to the 0% mature and 100% mature states.
