@@ -51,6 +51,11 @@ This mod is split into compenents:
 * * MG cost changed to 22 (from 20)
 * * GL cost changed to 18 (from 20)
 * * FT cost changed to 18 (from 20)
+* MG/AA/Proto adjustments
+* * AA research cost changed to 20 (from 25)
+* * AA reserach time decreased by 30 seconds
+* * Protolab cost changed to 40 (from 35)
+* * MG now requires research at the AA. Costs 10 Tres and takes 30 seconds.
 
 **Aliens**
 * Adren: Revert adrenaline changes in vanilla. Now the upgrade increases energy regeneration
