@@ -67,3 +67,4 @@ Aliens
 * * Increased clog drop energy cost by 20%
 * PVE HP changs
 * * Reduce crag, shift, shade, whip and clog effective HP by 10%, both to the 0% mature and 100% mature states.
+* Contaminate bile effect removed. Now only spreads infestation.
