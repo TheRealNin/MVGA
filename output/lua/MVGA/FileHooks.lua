@@ -32,6 +32,7 @@ end
 local pieces = { 
 "Biomass",
 "BuildTimes",
+"Costs",
 "Supply",
 "Adren",
 "InfantryPortal",
