@@ -1,4 +1,6 @@
 
+Script.Load("lua/MVGA/Config.lua")
+
 -- Setup Filehooks based on the folder structure inside the FileHooks folder
 -- Warning: Paths are case sensitive at Linux
 local function SetupFilehookFolder(folderPath, modPath, hookType)
@@ -29,25 +31,11 @@ local function SetupFilehookFolders(modPath)
 	end
 end
 
-local pieces = { 
-"Biomass",
-"BuildTimes",
-"Costs",
-"Supply",
-"Adren",
-"InfantryPortal",
-"Aura",
-"GL",
-"Mines",
-"SkulkHP",
-"StructureHP",
-"Changelog"
-}
-
-for i = 1, #pieces do
-
-	local fix = pieces[i]
-	local hookedFolder = string.format("MVGA/%s", fix)
-	SetupFilehookFolders(hookedFolder)
-	
+if Server then
+	for module, enabled in pairs(MVGAConfig.Settings.Modules) do
+		if enabled then
+			local hookedFolder = string.format("MVGA/%s", module)
+			SetupFilehookFolders(hookedFolder)
+		end
+	end
 end
