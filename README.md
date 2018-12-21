@@ -78,3 +78,4 @@ This mod is split into compenents:
 * * Mature hive HP changed to 5000 (from 6000)
 * * Mature hive Armor changed to 1500 (from 1400)
 * * Thus, unmature hive now has 5000 effective hp (from 5500) and mature hive has 8000 effective HP (from 8800), a decrease close to 10%.
+* Nutrient mist no longer prevents buildings off infestation from taking damage
