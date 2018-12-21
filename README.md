@@ -14,6 +14,7 @@ This mod is split into compenents:
 * * 8 marines = + 1 Infantry Portal, -10 Tres (for a net gain of +10 Tres)
 * Mines:
 * * effective HP changed to 70 (from 30)
+* * Now Affected by weapon upgrades
 * * Pres cost changed to 12 (from 10)
 * * Commander drop cost changed to 12 Tres to match
 * Grenade Launcher
@@ -28,6 +29,8 @@ This mod is split into compenents:
 
 **Aliens**
 * Biomass: Remove Biomass 4 research from hives, and reduce Contaminate biomass requirement to 9
+* PVE HP changs
+* * Reduce crag, shift, shade, whip and clog effective HP by 10%, both to the 0% mature and 100% mature states.
 * Skulk: implemented changes to make crag hive relatively less attractive in the early game
 * * Base Armor increased to 12 (from 10)
 * * Armor bonus per shell when using carapace changed to 3.33 (from 6.66)
@@ -65,9 +68,13 @@ This mod is split into compenents:
 * * Lerk costs 25 Pres (from 21)
 * * Fade costs 41 Pres (from 37)
 * * Onos costs 66 Pres (from 62)
+* Biomass 1 research cost increased to 20 (from 15). Biomass 2 increased to 25 (from 20)
 * Clogs
 * * Increased clog drop cooldown by 20%
 * * Increased clog drop energy cost by 20%
-* PVE HP changs
-* * Reduce crag, shift, shade, whip and clog effective HP by 10%, both to the 0% mature and 100% mature states.
 * Contaminate bile effect removed. Now only spreads infestation.
+* Hive eHP
+* * Unmature hive HP changed to 3500 (from 4000)
+* * Mature hive HP changed to 5000 (from 6000)
+* * Mature hive Armor changed to 1500 (from 1400)
+* * Thus, unmature hive now has 5000 effective hp (from 5500) and mature hive has 8000 effective HP (from 8800), a decrease close to 10%.
