@@ -14,8 +14,8 @@ kMarineInitialIndivRes = 17 -- was 15
 kShotgunCost = 22 -- was 20
 kShotgunDropCost = 22 -- was 20
 
+kHeavyMachineGunCost = 22 -- was 20
 kHeavyMachineGunDropCost = 22 -- was 20
-kHeavyMachineGunTechResearchCost = 22 -- was 20
 
 kFlamethrowerCost = 18 -- was 20
 kFlamethrowerDropCost = 18 -- was 20
