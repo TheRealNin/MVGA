@@ -65,7 +65,7 @@ This mod is split into compenents:
 
 * Aura: Change aura to be a pulse instead of constant wall hack
 
-## **To do**
+## **To do list**
 
 ### **Marines**
 * Flamethrower
