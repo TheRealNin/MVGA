@@ -42,7 +42,8 @@ local pieces = {
 "SkulkHP",
 "StructureHP",
 "Changelog",
-"DisableRanking"
+"DisableRanking",
+"NoBileContam"
 }
 
 for i = 1, #pieces do
