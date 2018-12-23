@@ -42,6 +42,8 @@ This mod is split into compenents:
 
 * Biomass: remove Biomass 4 research from hives, and reduce Contaminate biomass requirement to 9
 
+* Contaminate bile effect removed. Now only spreads infestation
+
 * PVE HP changes
   * Reduce crag, shift, shade, whip and clog effective HP by 10%, both to the 0% mature and 100% mature states.
 
@@ -88,7 +90,6 @@ This mod is split into compenents:
   * Increased clog drop cooldown by 20%
   * Increased clog drop energy cost by 20%
 
-* Contaminate bile effect removed. Now only spreads infestation.
 * All cysts have 250 hp and take damage while disconnected
 
 * Hive eHP
