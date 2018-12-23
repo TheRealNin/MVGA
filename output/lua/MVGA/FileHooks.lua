@@ -41,7 +41,8 @@ local pieces = {
 "Mines",
 "SkulkHP",
 "StructureHP",
-"Changelog"
+"Changelog",
+"DisableRanking"
 }
 
 for i = 1, #pieces do
