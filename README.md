@@ -53,9 +53,10 @@ This mod is split into compenents:
 * Alien Pres Costs
   * Starting Pres for aliens changed to 16 (from 12)
   * Gorge tunnel costs 5 (from 3) (thus, 2Pres are still needed to connect the first tunnel)
-  * Lerk costs 25 Pres (from 21)
-  * Fade costs 41 Pres (from 37)
-  * Onos costs 66 Pres (from 62)
+  * Gorge costs 10 Pres (from 8)
+  * Lerk  costs 25 Pres (from 21)
+  * Fade  costs 41 Pres (from 37)
+  * Onos  costs 66 Pres (from 62)
 
 * Supply:
   * Aliens start with 100 supply. Second hive gives +50 supply. Third hive gives +50 supply.
