@@ -1,11 +1,12 @@
 -- ALIENS
-kAlienInitialIndivRes = 16 -- was 12
+kAlienInitialIndivRes = 18 -- was 12
 
 kGorgeTunnelCost = 5 --was 3
 
-kLerkCost = 25 -- was 21
-kFadeCost = 41 -- was 37
-kOnosCost = 66 -- was 62
+kGorgeCost = 10 -- was 8
+kLerkCost  = 24 -- was 21
+kFadeCost  = 41 -- was 37
+kOnosCost  = 66 -- was 62
 
 
 -- MARINES
