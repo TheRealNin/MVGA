@@ -1,0 +1,1 @@
+kMatureCystHealth = 250 -- was 450

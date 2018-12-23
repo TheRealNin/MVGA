@@ -43,7 +43,8 @@ local pieces = {
 "StructureHP",
 "Changelog",
 "DisableRanking",
-"NoBileContam"
+"NoBileContam",
+"Cyst"
 }
 
 for i = 1, #pieces do
