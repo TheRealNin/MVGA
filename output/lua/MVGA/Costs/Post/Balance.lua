@@ -5,8 +5,8 @@ kGorgeTunnelCost = 5 --was 3
 
 kGorgeCost = 10 -- was 8
 kLerkCost  = 24 -- was 21
-kFadeCost  = 41 -- was 37
-kOnosCost  = 66 -- was 62
+kFadeCost  = 43 -- was 37
+kOnosCost  = 68 -- was 62
 
 
 -- MARINES
