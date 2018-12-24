@@ -53,12 +53,12 @@ This mod is split into compenents:
   * Biomass HP increase change to 6 (from 3)
 
 * Alien Pres Costs
-  * Starting Pres for aliens changed to 16 (from 12)
+  * Starting Pres for aliens changed to 18 (from 12, so +6)
   * Gorge tunnel costs 5 (from 3) (thus, 2Pres are still needed to connect the first tunnel)
   * Gorge costs 10 Pres (from 8)
-  * Lerk  costs 25 Pres (from 21)
-  * Fade  costs 41 Pres (from 37)
-  * Onos  costs 66 Pres (from 62)
+  * Lerk  costs 24 Pres (from 21, so 6 Pres for first LF, like in vanilla)
+  * Fade  costs 43 Pres (from 37, so 25 Pres for first LF, like in vanilla)
+  * Onos  costs 68 Pres (from 62, so 50 Pres for first LF, like in vanilla)
 
 * Supply:
   * Aliens start with 100 supply. Second hive gives +50 supply. Third hive gives +50 supply.
