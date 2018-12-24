@@ -44,7 +44,8 @@ local pieces = {
 "Changelog",
 "DisableRanking",
 "NoBileContam",
-"Cyst"
+"Cyst",
+"NutrientMist"
 }
 
 for i = 1, #pieces do
