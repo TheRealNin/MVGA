@@ -72,6 +72,8 @@ This mod is split into compenents:
 
 * NutrientMist: Nutrient mist no longer prevents buildings off infestation from taking damage, and can only be deployed on infestation.
 
+* GorgeStructures: Cooldown between dropping structures increased to 1.2 seconds (was 1.0 seconds)
+
 ## **To do list**
 
 ### **Marines**
@@ -89,11 +91,6 @@ This mod is split into compenents:
 
 ### **Aliens**
 * Biomass 1 research cost increased to 20 (from 15). Biomass 2 increased to 25 (from 20)
-
-* Clogs
-  * Increased clog drop cooldown by 20%
-  * Increased clog drop energy cost by 20%
-
 
 * Hive eHP
   * Unmature hive HP changed to 3500 (from 4000)
