@@ -68,6 +68,10 @@ This mod is split into compenents:
 
 * Aura: Change aura to be a pulse instead of constant wall hack
 
+* Cysts: All cysts have 250 hp and take damage while disconnected
+
+* NutrientMist: Nutrient mist no longer prevents buildings off infestation from taking damage, and can only be deployed on infestation.
+
 ## **To do list**
 
 ### **Marines**
@@ -90,7 +94,6 @@ This mod is split into compenents:
   * Increased clog drop cooldown by 20%
   * Increased clog drop energy cost by 20%
 
-* All cysts have 250 hp and take damage while disconnected
 
 * Hive eHP
   * Unmature hive HP changed to 3500 (from 4000)
@@ -98,5 +101,4 @@ This mod is split into compenents:
   * Mature hive Armor changed to 1500 (from 1400)
   * Thus, unmature hive now has 5000 effective hp (from 5500) and mature hive has 8000 effective HP (from 8800), a decrease close to 10%.
 
-* Nutrient mist no longer prevents buildings off infestation from taking damage, and can only be deployed on infestation.
 * Neurotoxin to be implemented later, if possible.
