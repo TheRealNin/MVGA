@@ -38,11 +38,25 @@ This mod is split into compenents:
   * Robotics Factory is now 10 supply
 
 ### **Aliens**
-* Adrenaline: reverted adrenaline changes in vanilla. Now the upgrade increases energy regeneration
+* Alien Pres Costs
+  * Starting Pres for aliens changed to 18 (from 12, so +6)
+  * Gorge costs 10 Pres (from 8)
+  * Gorge tunnel costs 5 (from 3) (thus, 2Pres are still needed to connect the first tunnel)
+  * Lerk costs 24 Pres (from 21, so 6 Pres for first LF, like in classic vanilla)
+  * Fade costs 43 Pres (from 37, so 25 Pres for first LF, like in vanilla)
+  * Onos costs 68 Pres (from 62, so 50 Pres for first LF, like in vanilla)
+
+* Trait changes
+  * Adrenaline: reverted adrenaline changes in vanilla. Now the upgrade increases energy regeneration
+  * Aura: Change aura to be a pulse instead of constant wall hack
 
 * Biomass: remove Biomass 4 research from hives, and reduce Contaminate biomass requirement to 9
 
 * Contaminate bile effect removed. Now only spreads infestation
+
+* Cysts: All cysts have 250 hp and take damage while disconnected
+
+* Gorge Structures: Cooldown between dropping structures increased to 1.2 seconds (was 1 second. This helps curb in-combat clog replacement of gorgeforts)
 
 * PVE HP changes
   * Reduce crag, shift, shade, whip and clog effective HP by 10%, both to the 0% mature and 100% mature states.
@@ -52,27 +66,13 @@ This mod is split into compenents:
   * Armor bonus per shell when using carapace changed to 3.33 (from 6.66)
   * Biomass HP increase change to 6 (from 3)
 
-* Alien Pres Costs
-  * Starting Pres for aliens changed to 18 (from 12, so +6)
-  * Gorge tunnel costs 5 (from 3) (thus, 2Pres are still needed to connect the first tunnel)
-  * Gorge costs 10 Pres (from 8)
-  * Lerk  costs 24 Pres (from 21, so 6 Pres for first LF, like in vanilla)
-  * Fade  costs 43 Pres (from 37, so 25 Pres for first LF, like in vanilla)
-  * Onos  costs 68 Pres (from 62, so 50 Pres for first LF, like in vanilla)
+* NutrientMist: Nutrient mist no longer prevents buildings off infestation from taking damage, and can only be deployed on infestation.
 
 * Supply:
   * Aliens start with 100 supply. Second hive gives +50 supply. Third hive gives +50 supply.
   * Drifter: 15
   * Whip: 15
   * Shift, Shade, Crag: 10
-
-* Aura: Change aura to be a pulse instead of constant wall hack
-
-* Cysts: All cysts have 250 hp and take damage while disconnected
-
-* NutrientMist: Nutrient mist no longer prevents buildings off infestation from taking damage, and can only be deployed on infestation.
-
-* GorgeStructures: Cooldown between dropping structures increased to 1.2 seconds (was 1.0 seconds)
 
 ## **To do list**
 
@@ -86,6 +86,7 @@ This mod is split into compenents:
   * AA reserach time decreased by 30 seconds
   * Protolab cost changed to 40 (from 35)
   * MG now requires research at the AA. Costs 10 Tres and takes 30 seconds.
+  * (in summary, the old MG research model is back, but at 10 Tres to research instead of 20)
 
 * Medpack tech to be implemented later, if possible
 
