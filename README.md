@@ -2,8 +2,6 @@
 Make Vanilla Great Again!
 A balance mod for NS2
 
-This mod is split into compenents:
-
 ## **Implemented**
 
 ### **Marines**
