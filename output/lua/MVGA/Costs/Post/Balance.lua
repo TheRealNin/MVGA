@@ -23,3 +23,6 @@ kFlamethrowerDropCost = 18 -- was 20
 
 kGrenadeLauncherCost = 18 -- was 20
 kGrenadeLauncherDropCost = 18 -- was 20
+
+kJetpackCost = 18 -- was 15
+kJetpackDropCost = 18 -- was 15
