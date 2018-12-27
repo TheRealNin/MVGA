@@ -23,11 +23,12 @@ A balance mod for NS2
   * Scales with weapon upgrades
   * PvP damage reduction changed to 33% (from 20%) (thus, player damage at W3 is now the same player damage as in vanilla)
 
-* Weapon Pres Costs
+* Pres Costs
   * Shotgun cost changed to 22 (from 20)
   * MG cost changed to 22 (from 20)
   * GL cost changed to 18 (from 20)
   * FT cost changed to 18 (from 20)
+  * JP cost changed to 18 (from 15)
 
 * Supply
   * Observatories now cost 25 supply
