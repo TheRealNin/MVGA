@@ -1,5 +1,5 @@
 
-local lastMVGAUpdate = 1532713086   
+local lastMVGAUpdate = 1546111554   
 
 local menu_was_opened = false
 local function GetShouldOpenChangelog()
