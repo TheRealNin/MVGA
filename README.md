@@ -5,7 +5,7 @@ A balance mod for NS2
 ## **Implemented**
 
 ### **Marines**
-* BuildTimes: fix build times for obs and robo. Obs now takes 7 seconds to build and robo takes 15 seconds, in accordance with their size and HP.
+* BuildTimes: fix build times for obs and robo. Obs now takes 10 seconds to build and robo takes 15 seconds, in accordance with their size and HP.
 
 * Infantry Portal: a balance mechanic is implemented to account for the different sizes, from 6v6 to 8v8. Changes are only implemented at the start of the round, with no effect if marines join after the game has started. Changes are as follows:
   * 6 marines = no change
@@ -15,8 +15,9 @@ A balance mod for NS2
 * Mines
   * effective HP changed to 70 (from 30)
   * Now Affected by weapon upgrades
-  * Pres cost changed to 12 (from 10)
-  * Commander drop cost changed to 12 Tres to match
+  * Package comes with 3 mines (from 2)
+  * Pres cost changed to 18 (6 per mine from 5 per mine)
+  * Commander drop cost changed to 18 Tres to match
 
 * Grenade Launcher
   * Base damage reduced by 8.6%
@@ -49,13 +50,23 @@ A balance mod for NS2
   * Adrenaline: reverted adrenaline changes in vanilla. Now the upgrade increases energy regeneration
   * Aura: Change aura to be a pulse instead of constant wall hack
 
-* Biomass: remove Biomass 4 research from hives, and reduce Contaminate biomass requirement to 9
+* Biomass
+  * Biomass 1 research cost increased to 20 (from 15)
+  * Biomass 2 research cost increased to 25 (from 20)
 
-* Contaminate bile effect removed. Now only spreads infestation
+* Contaminate:
+  * Moved to biomass 9
+  * Bile effect removed. Now only spreads infestation. Goodbye _contaminuke_, never return.
 
 * Cysts: All cysts have 250 hp and take damage while disconnected
 
 * Gorge Structures: Cooldown between dropping structures increased to 1.2 seconds (was 1 second. This helps curb in-combat clog replacement of gorgeforts)
+
+* Hive eHP
+  * Unmature hive HP changed to 3500 (from 4000)
+  * Mature hive HP changed to 5000 (from 6000)
+  * Mature hive Armor changed to 1500 (from 1400)
+  * Thus, unmature hive now has 5000 effective hp (from 5500) and mature hive has 8000 effective HP (from 8800), a decrease close to 10%.
 
 * PVE HP changes
   * Reduce crag, shift, shade, whip and clog effective HP by 10%, both to the 0% mature and 100% mature states.
@@ -90,12 +101,5 @@ A balance mod for NS2
 * Medpack tech to be implemented later, if possible
 
 ### **Aliens**
-* Biomass 1 research cost increased to 20 (from 15). Biomass 2 increased to 25 (from 20)
-
-* Hive eHP
-  * Unmature hive HP changed to 3500 (from 4000)
-  * Mature hive HP changed to 5000 (from 6000)
-  * Mature hive Armor changed to 1500 (from 1400)
-  * Thus, unmature hive now has 5000 effective hp (from 5500) and mature hive has 8000 effective HP (from 8800), a decrease close to 10%.
 
 * Neurotoxin to be implemented later, if possible.
