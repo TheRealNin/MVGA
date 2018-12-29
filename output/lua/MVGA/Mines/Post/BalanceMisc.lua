@@ -1,0 +1,1 @@
+kNumMines = 3 -- was 2
