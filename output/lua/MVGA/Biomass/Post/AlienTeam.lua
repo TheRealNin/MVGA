@@ -2,16 +2,16 @@
 local oldInitTechTree = AlienTeam.InitTechTree
 function AlienTeam:InitTechTree()
 	
-    local oldAddBuildNode = TechTree.AddBuildNode
-    TechTree.AddBuildNode = function(self, techId, prereq1, prereq2, isRequired)
-		if techId == kTechId.Contamination and prereq1 == kTechId.BioMassTen then
+    local oldResearchNode = TechTree.AddResearchNode
+    TechTree.AddResearchNode = function(self, techId, prereq1, prereq2, addOnTechId)
+		if techId == kTechId.Stomp and prereq1 == kTechId.BioMassEight then
 			prereq1 = kTechId.BioMassNine
 		end
-		return oldAddBuildNode(self, techId, prereq1, prereq2, isRequired)
+		return oldResearchNode(self, techId, prereq1, prereq2, addOnTechId)
 	end
     
     oldInitTechTree(self)
     
     
-    TechTree.AddBuildNode = oldAddBuildNode
+    TechTree.AddResearchNode = oldResearchNode
 end
