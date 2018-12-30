@@ -54,11 +54,11 @@ A balance mod for NS2
   * Biomass 1 research cost increased to 20 (from 15)
   * Biomass 2 research cost increased to 25 (from 20)
 
-* Contaminate:
-  * Moved to biomass 9
-  * Bile effect removed. Now only spreads infestation. Goodbye _contaminuke_, never return.
+* Contaminate bile effect removed. Now only spreads infestation. Goodbye _contaminuke_, never return.
 
-* Cysts: All cysts have 250 hp and take damage while disconnected
+* Cysts
+  * All cysts have 250 hp and take damage while disconnected
+  * Cysts no longer lose maturity on disconnection, only HP. (remember nutrient myst heals cysts! ;) )
 
 * Gorge Structures: Cooldown between dropping structures increased to 1.2 seconds (was 1 second. This helps curb in-combat clog replacement of gorgeforts)
 
