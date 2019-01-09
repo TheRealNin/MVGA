@@ -42,7 +42,6 @@ local pieces = {
 "SkulkHP",
 "StructureHP",
 "Changelog",
-"DisableRanking",
 "NoBileContam",
 "Cyst",
 "NutrientMist",
