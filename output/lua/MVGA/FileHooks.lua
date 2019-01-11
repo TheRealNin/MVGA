@@ -47,7 +47,8 @@ local pieces = {
 "NutrientMist",
 "GorgeStructures",
 "HiveHP",
-"Pulse"
+"Pulse",
+"Exo"
 }
 
 for i = 1, #pieces do
