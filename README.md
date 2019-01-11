@@ -104,7 +104,6 @@ A balance mod for NS2
 
 * MG/AA/Proto adjustments
   * AA research cost changed to 20 (from 25)
-  * AA reserach time decreased by 30 seconds
   * Protolab cost changed to 40 (from 35)
   * MG now requires research at the AA. Costs 10 Tres and takes 30 seconds.
   * (in summary, the old MG research model is back, but at 10 Tres to research instead of 20)
