@@ -8,8 +8,10 @@ A balance mod for NS2
 * BuildTimes: fix build times for obs and robo. Obs now takes 10 seconds to build and robo takes 15 seconds, in accordance with their size and HP.
 
 * Exosuit - Railgun
+  * Pres cost decreased to 50 (from 55)
   * Railgun exo damage vs **vs structures only** increased by 42%
   * The railgun exo now is effectively anti-structure, having a PvE killing power comparable to the vanilla minigun exo. It can still one shot skulks and severely damage lerks without one shotting them. It remains extremely weak versus onos. It is now in more of a niche PvE role.
+  
 * Exosuit - Minigun
   * Pres cost decreased to 50 (from 55)
   * Minigun exo damage type changed to heavy **vs lifeforms only**
