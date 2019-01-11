@@ -7,6 +7,14 @@ A balance mod for NS2
 ### **Marines**
 * BuildTimes: fix build times for obs and robo. Obs now takes 10 seconds to build and robo takes 15 seconds, in accordance with their size and HP.
 
+* Exosuits
+ * Pres cost decreased to 50 (from 55)
+ * Minigun exo damage type changed to heavy **vs lifeforms only**
+ * Minigun exo Base damage decreased by 20%
+   * The minigun exo kills a biomass 6 onos 2% faster than in vanilla, while now being slightly worse vs skulks and lerks, and 20% less effective against structures. It is now in more of a niche PvP role.
+ * Railgun exo damage vs **vs structures only** increased by 42%
+   * The railgun exo now is effectively anti-structure, having a PvE killing power comparable to the vanilla minigun exo. It can still one shot skulks and severely damage lerks without one shotting them. It remains extremely weak versus onos. It is now in more of a niche PvE role.
+
 * Infantry Portal: a balance mechanic is implemented to account for the different sizes, from 6v6 to 8v8. Changes are only implemented at the start of the round, with no effect if marines join after the game has started. Changes are as follows:
   * 6 marines = no change
   * 7 marines = +5 Tres
@@ -59,13 +67,6 @@ A balance mod for NS2
 * Cysts
   * All cysts have 250 hp and take damage while disconnected
   * Cysts no longer lose maturity on disconnection, only HP. (remember nutrient myst heals cysts! ;) )
-* Exosuits
- * Pres cost decreased to 50 (from 55)
- * Minigun exo damage type changed to heavy **vs lifeforms only**
- * Minigun exo Base damage decreased by 20%
-   * The minigun exo kills a biomass 6 onos 2% faster than in vanilla, while now being slightly worse vs skulks and lerks, and 20% less effective against structures. It is now in more of a niche PvP role.
- * Railgun exo damage vs **vs structures only** increased by 42%
-   * The railgun exo now is effectively anti-structure, having a PvE killing power comparable to the vanilla minigun exo. It can still one shot skulks and severely damage lerks without one shotting them. It remains extremely weak versus onos. It is now in more of a niche PvE role.
   
 * Gorge Structures: Cooldown between dropping structures increased to 1.2 seconds (was 1 second. This helps curb in-combat clog replacement of gorgeforts)
 
