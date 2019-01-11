@@ -59,7 +59,14 @@ A balance mod for NS2
 * Cysts
   * All cysts have 250 hp and take damage while disconnected
   * Cysts no longer lose maturity on disconnection, only HP. (remember nutrient myst heals cysts! ;) )
-
+* Exosuits
+ * Pres cost decreased to 50 (from 55)
+ * Minigun exo damage type changed to heavy **vs lifeforms only**
+ * Minigun exo Base damage decreased by 20%
+   * The minigun exo kills a biomass 6 onos 2% faster than in vanilla, while now being slightly worse vs skulks and lerks, and 20% less effective against structures. It is now in more of a niche PvP role.
+ * Railgun exo damage vs **vs structures only** increased by 42%
+   * The railgun exo now is effectively anti-structure, having a PvE killing power comparable to the vanilla minigun exo. It can still one shot skulks and severely damage lerks without one shotting them. It remains extremely weak versus onos. It is now in more of a niche PvE role.
+  
 * Gorge Structures: Cooldown between dropping structures increased to 1.2 seconds (was 1 second. This helps curb in-combat clog replacement of gorgeforts)
 
 * Hive eHP
