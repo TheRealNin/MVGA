@@ -9,7 +9,7 @@ A balance mod for NS2
 
 * Exosuit - Railgun
   * Pres cost decreased to 50 (from 55)
-  * Railgun exo damage vs **vs structures only** increased by 42%
+  * Railgun exo damage vs **vs structures only** increased by 35%
   * The railgun exo now is effectively anti-structure, having a PvE killing power comparable to the vanilla minigun exo. It can still one shot skulks and severely damage lerks without one shotting them. It remains extremely weak versus onos. It is now in more of a niche PvE role.
   
 * Exosuit - Minigun
