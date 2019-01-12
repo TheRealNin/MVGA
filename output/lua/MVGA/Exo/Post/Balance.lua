@@ -7,5 +7,5 @@ kMinigunDamage = 8 -- was 10
 kMinigunDamageType = kDamageType.HeavyToPlayers -- was kDamageType.Normal
 
 kRailgunDamage = 14 -- was 10
-kRailgunChargeDamage = 200 -- was 140
+kRailgunChargeDamage = 189 -- was 140
 kRailgunDamageType = kDamageType.Railgun -- was kDamageType.Structural
