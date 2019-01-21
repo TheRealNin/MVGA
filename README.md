@@ -62,7 +62,6 @@ A balance mod for NS2
   * Aura: Change aura to be a pulse instead of constant wall hack
 
 * Biomass
-  * Biomass 1 research cost increased to 20 (from 15)
   * Biomass 2 research cost increased to 25 (from 20)
 
 * Contaminate bile effect removed. Now only spreads infestation. Goodbye _contaminuke_, never return.
