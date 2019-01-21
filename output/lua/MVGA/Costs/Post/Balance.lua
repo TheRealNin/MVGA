@@ -28,5 +28,5 @@ kJetpackCost = 18 -- was 15
 kJetpackDropCost = 18 -- was 15
 
 
-kResearchBioMassOneCost = 20 -- was 15
+kResearchBioMassOneCost = 15 -- was 15
 kResearchBioMassTwoCost = 25 -- was 20
