@@ -5,7 +5,7 @@ A balance mod for NS2
 ## **Implemented**
 
 ### **Marines**
-* BuildTimes: fix build times for obs and robo. Obs now takes 10 seconds to build and robo takes 15 seconds, in accordance with their size and HP.
+* BuildTimes: fix build times for obs and robo. Obs now takes 12 seconds to build and robo takes 15 seconds, in accordance with their size and HP.
 
 * Exosuit - Railgun
   * Pres cost decreased to 50 (from 55)
